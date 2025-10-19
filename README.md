@@ -54,5 +54,5 @@ A simple and efficient **Sports Kits Management System** built using **Streamlit
                                     
 
 Team:
-N Sai Venkata Pavan
+N Sai Venkata Pavan ||
 K Yagna Sri Keerthi
