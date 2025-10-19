@@ -51,3 +51,8 @@ A simple and efficient **Sports Kits Management System** built using **Streamlit
 | date | TIMESTAMP | Auto-generated timestamp |
 
 ---
+                                    
+
+Team:
+N Sai Venkata Pavan
+K Yagna Sri Keerthi
